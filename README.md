@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TechyKid
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... isaacpearlman2010@gmail.com
 
